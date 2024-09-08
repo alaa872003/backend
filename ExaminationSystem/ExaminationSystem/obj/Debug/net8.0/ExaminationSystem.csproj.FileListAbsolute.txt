@@ -1,0 +1,14 @@
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\mlole\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll
