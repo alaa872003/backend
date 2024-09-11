@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P01_SalesDatabase
-build_property.ProjectDir = C:\Users\mlole\source\repos\P01_SalesDatabase\P01_SalesDatabase\
+build_property.ProjectDir = D:\Backend.net\EF\6-9\backend\Task(6-9)\P01_SalesDatabase\P01_SalesDatabase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

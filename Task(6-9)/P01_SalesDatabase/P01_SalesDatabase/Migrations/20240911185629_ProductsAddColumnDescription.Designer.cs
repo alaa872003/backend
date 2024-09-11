@@ -12,8 +12,8 @@ using P01_SalesDatabase.Data;
 namespace P01_SalesDatabase.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240910221305_SalesAddDateDefault")]
-    partial class SalesAddDateDefault
+    [Migration("20240911185629_ProductsAddColumnDescription")]
+    partial class ProductsAddColumnDescription
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

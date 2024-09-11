@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mlole\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+      "projectUniqueName": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
       "projectName": "P01_SalesDatabase",
-      "projectPath": "C:\\Users\\mlole\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+      "projectPath": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
       "packagesPath": "C:\\Users\\mlole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mlole\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\obj\\",
+      "outputPath": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

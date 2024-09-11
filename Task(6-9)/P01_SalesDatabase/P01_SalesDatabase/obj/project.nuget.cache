@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33VG2z661hc=",
+  "dgSpecHash": "/2ezq9GF6Mo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mlole\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+  "projectFilePath": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mlole\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mlole\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

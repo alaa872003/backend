@@ -25,13 +25,10 @@ namespace P01_SalesDatabase.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<Product>().Property(p=>p.Name).HasColumnType("varchar(50)").IsUnicode(true);
+            modelBuilder.Entity<Product>().Property(p => p.Name).HasColumnType("varchar(50)").IsUnicode(true);
             modelBuilder.Entity<Customer>().Property(c => c.Name).HasColumnType("varchar(100)").IsUnicode(true);
             modelBuilder.Entity<Customer>().Property(c => c.Email).HasColumnType("varchar(80)").IsUnicode(false);
             modelBuilder.Entity<Store>().Property(s => s.Name).HasColumnType("varchar(80)").IsUnicode(true);
-
-            
-
         }
     }
 }

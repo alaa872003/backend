@@ -9,6 +9,8 @@ namespace P01_SalesDatabase.Models
     internal class Sale
     {
         public int Id { get; set; }
+        public DateTime Date { get; set; }
+        public string Description { get; set; }
         public Product product { get; set; }
         public Customer customer { get; set; }
         public Store store { get; set; }
@@ -16,7 +18,6 @@ namespace P01_SalesDatabase.Models
         public int CustomerId { get; set; }
         public int StoreId { get; set; }
 
-        public DateTime Date { get; set; }
 
 
     }
