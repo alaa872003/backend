@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911190625_SalesAddDateDefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_SalesDatabase\\Migrations\\20240911190625_SalesAddDateDefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\migrations\\20240911183302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\migrations\\20240911183302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\migrations\\20240911183302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\migrations\\20240911183302_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\migrations\\20240911190625_salesadddatedefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\migrations\\20240911190625_salesadddatedefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\p01_salesdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\p01_salesdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\migrations\\20240911185629_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\migrations\\20240911185629_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C87ECD82-38D1-4DC7-BC73-17BDED815120}|P01_SalesDatabase\\P01_SalesDatabase.csproj|d:\\backend.net\\ef\\6-9\\backend\\task(6-9)\\p01_salesdatabase\\p01_salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "20240911190625_SalesAddDateDefault.cs",
               "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911190625_SalesAddDateDefault.cs",
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Migrations\\20240911190625_SalesAddDateDefault.cs",
@@ -62,25 +62,11 @@
               "RelativeToolTip": "P01_SalesDatabase\\Migrations\\20240911190625_SalesAddDateDefault.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T19:06:25.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:06:25.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240911185629_ProductsAddColumnDescription.cs",
-              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
-              "RelativeDocumentMoniker": "P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
-              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
-              "RelativeToolTip": "P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:56:29.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20240911183302_InitialCreate.cs",
               "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911183302_InitialCreate.cs",
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Migrations\\20240911183302_InitialCreate.cs",
@@ -88,8 +74,7 @@
               "RelativeToolTip": "P01_SalesDatabase\\Migrations\\20240911183302_InitialCreate.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:33:03.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T18:33:03.608Z"
             },
             {
               "$type": "Document",
@@ -99,33 +84,31 @@
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Models\\Sale.cs",
               "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Sale.cs",
               "RelativeToolTip": "P01_SalesDatabase\\Models\\Sale.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T21:00:30.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T21:00:30.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Product.cs",
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Models\\Product.cs",
               "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Product.cs",
               "RelativeToolTip": "P01_SalesDatabase\\Models\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T20:42:46.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T20:42:46.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T20:41:31.607Z",
               "EditorCaption": ""
@@ -133,19 +116,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Store.cs",
-              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Store.cs",
-              "RelativeDocumentMoniker": "P01_SalesDatabase\\Models\\Store.cs",
-              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Store.cs",
-              "RelativeToolTip": "P01_SalesDatabase\\Models\\Store.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T20:59:52.951Z",
-              "EditorCaption": ""
+              "Title": "P01_SalesDatabase.csproj",
+              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+              "RelativeDocumentMoniker": "P01_SalesDatabase\\P01_SalesDatabase.csproj",
+              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+              "RelativeToolTip": "P01_SalesDatabase\\P01_SalesDatabase.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T20:12:57.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "P01_SalesDatabase\\Models\\Customer.cs",
@@ -158,14 +140,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "P01_SalesDatabase.csproj",
-              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
-              "RelativeDocumentMoniker": "P01_SalesDatabase\\P01_SalesDatabase.csproj",
-              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
-              "RelativeToolTip": "P01_SalesDatabase\\P01_SalesDatabase.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-10T20:12:57.582Z"
+              "Title": "20240911185629_ProductsAddColumnDescription.cs",
+              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
+              "RelativeDocumentMoniker": "P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
+              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
+              "RelativeToolTip": "P01_SalesDatabase\\Migrations\\20240911185629_ProductsAddColumnDescription.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:56:29.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "P01_SalesDatabase\\Models\\Store.cs",
+              "ToolTip": "D:\\Backend.net\\EF\\6-9\\backend\\Task(6-9)\\P01_SalesDatabase\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeToolTip": "P01_SalesDatabase\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:59:52.951Z"
             },
             {
               "$type": "Document",
